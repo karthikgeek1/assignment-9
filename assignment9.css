@@ -1,0 +1,61 @@
+header{
+    height: 40px;
+    background-color: coral;
+    color: white;
+    width: 100%;
+    position: fixed;
+}
+.b{
+    float: left;
+    margin: 0 auto;
+    display: block;
+}
+ul{
+    list-style-type: none;
+    padding: o;
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    padding: 8px;
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+main{
+    text-transform: capitalize;
+    text-align: center;
+    color:white;
+    background-color: coral;
+    margin-top: 0%;
+    margin-bottom: 0;
+    padding: 10px;
+}
+#abc{
+    float:left;
+    width: 30%;
+}
+#def{
+    float: right;
+    width: 30%;
+}
+button{
+    background-color: coral;
+    padding: 10px;
+    border-width: 0px;
+}
+#ghi{
+    float: left;
+    margin-left: 60px;
+    width: 30%;
+}
+#jkl{
+    float: left;
+    width: 30%;
+}
